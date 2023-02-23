@@ -1,6 +1,6 @@
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chivo+Mono&duration=4500&pause=850&color=0BFF0050&center=true&vCenter=true&repeat=false&width=529&height=85&lines=Wake+up.;The+Matirx+has+you...;Follow+the+white+rabbit.;Knock%2C+Knock.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chivo+Mono&duration=4500&pause=850&color=0BFF0050&center=true&vCenter=true&repeat=false&width=529&height=85&lines=Wake+up.;The+Matirx+has+you...;Follow+the+white+rabbit.;Knock%2C+Knock.)](https://git.io/typing-svg)
 <!--
 **PIesPnuema/PIesPnuema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
