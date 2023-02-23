@@ -3,5 +3,5 @@
 ## Hi There! 
 
 - 🌱 I’m currently learning wxWidgets and advanced C++ practices.
-- 👯 I’m looking to collaborate on Robotics Operating System (ROS) or any other robitics library using C++.
+- 👯 I’m looking to collaborate on the Robotics Operating System (ROS) or any other robitics library using C++.
 
